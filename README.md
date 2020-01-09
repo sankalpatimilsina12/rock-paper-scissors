@@ -1,4 +1,4 @@
-# Face/Emotion Recognition
+# Rock, Paper, Scissors using AI
 
 An AI to play the Rock Paper Scissors game.
 
